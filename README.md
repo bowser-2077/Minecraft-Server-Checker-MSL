@@ -1,2 +1,16 @@
-# Minecraft-Server-Checker-MSL-
-Just A bat minecraft server launcher
+# Minecraft-Server-Checker-MSL
+
+        .__                                   _____  __                                                 .__                             .__                  
+  _____ |__| ____   ____   ________________ _/ ____\/  |_      ______ ______________  __ ___________    |  | _____   __ __  ____   ____ |  |__   ___________ 
+ /     \|  |/    \_/ __ \_/ ___\_  __ \__  \\   __\\   __\    /  ___// __ \_  __ \  \/ // __ \_  __ \   |  | \__  \ |  |  \/    \_/ ___\|  |  \_/ __ \_  __ \
+|  Y Y  \  |   |  \  ___/\  \___|  | \// __ \|  |   |  |      \___ \\  ___/|  | \/\   /\  ___/|  | \/   |  |__/ __ \|  |  /   |  \  \___|   Y  \  ___/|  | \/
+|__|_|  /__|___|  /\___  >\___  >__|  (____  /__|   |__|     /____  >\___  >__|    \_/  \___  >__|      |____(____  /____/|___|  /\___  >___|  /\___  >__|   
+      \/        \/     \/     \/           \/                     \/     \/                 \/                    \/           \/     \/     \/     \/       
+
+
+Welcome to Minecrat server launcher! (MSL)
+
+MSL is a simple bat file to launche multiple server.
+There is Nothing more.
+
+Make sure to like and sub @bowser2077 on YouTube :) .
